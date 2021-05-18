@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messenger", "Messenger\Messenger.csproj", "{53210D32-D897-4ED4-B667-0B6D545F799D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Messenger", "Messenger\Messenger.csproj", "{53210D32-D897-4ED4-B667-0B6D545F799D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNetCoreServer", "ASPNetCoreServer\ASPNetCoreServer.csproj", "{C4F00063-DA44-44CE-B864-4D3BBD00EF94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{53210D32-D897-4ED4-B667-0B6D545F799D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53210D32-D897-4ED4-B667-0B6D545F799D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53210D32-D897-4ED4-B667-0B6D545F799D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F00063-DA44-44CE-B864-4D3BBD00EF94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F00063-DA44-44CE-B864-4D3BBD00EF94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F00063-DA44-44CE-B864-4D3BBD00EF94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F00063-DA44-44CE-B864-4D3BBD00EF94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
